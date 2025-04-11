@@ -163,8 +163,8 @@ class DataProcessor:
         df.drop(columns=['header_image', 'estimated_owners', 'pct_pos_recent', 'num_reviews_recent'], inplace=True, axis=1)
         
         # Reset index
-        df.reset_index(drop=True, inplace=True)
         df.sort_values(by=['user_attractiveness', 'name'], ascending=False, inplace=True)
+        df.reset_index(drop=True, inplace=True)
         
         df.to_pickle(data_path)
         
