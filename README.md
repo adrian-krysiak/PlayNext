@@ -114,4 +114,4 @@ This project is licensed under the MIT License. See the `LICENSE` file for detai
 
 ## Acknowledgments
 
-- Data originally sourced from Kaggle: [Steam Games Dataset by Artem Ilov](https://www.kaggle.com/datasets/artermiloff/steam-games-dataset)
+- Data originally sourced from Kaggle: [Steam Games Dataset by artermiloff](https://www.kaggle.com/datasets/artermiloff/steam-games-dataset)
