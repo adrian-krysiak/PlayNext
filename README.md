@@ -56,6 +56,22 @@ PlayNext/
 
 2. Open the app in your browser at `http://localhost:8501`.
 
+## Demo
+
+Here are a few screenshots showcasing the Streamlit interface:
+
+### 🔹 Start Page
+![Start Page](https://github.com/user-attachments/assets/9a685526-3c31-4de0-89fa-2427d6fd64f2)
+
+
+### 🔹 Filters Chosen
+![Filters Chosen](https://github.com/user-attachments/assets/8fd06475-2b23-426e-a491-26ddd133a4d9)
+
+
+### 🔹 Recommendations Received
+![Recommendations](https://github.com/user-attachments/assets/c0f40a80-8685-4e7a-889a-29a42835d2d4)
+
+
 ## Features
 
 - **Data Processing**: Cleans, preprocesses, and weights game data for analysis and recommendations.
